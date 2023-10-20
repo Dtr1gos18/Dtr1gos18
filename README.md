@@ -29,7 +29,8 @@
 
 - ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
 
 
 - ## 🥅**Softwares and Tools**:
